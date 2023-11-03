@@ -1,0 +1,21 @@
+# Directorio de entorno virtual
+venv/
+env/
+/entorno
+
+# Archivos de Python generados
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de registro
+*.log
+
+# Archivo de entorno local
+.env
+
+# Carpeta de migraciones generada por Flask-Migrate
+/migrations
+
+.data/
+*.ini
